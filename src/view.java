@@ -39,7 +39,7 @@ public class view {
 		      
 		    //create  the connection object 
 		    Connection con=DriverManager.getConnection(  
-		    "jdbc:oracle:thin:@localhost:1522/xe","system","admin123");  
+		    "jdbc:oracle:thin:@localhost:1522/xe","system","password");  
 		      
 		    //create the statement object  
 		    Statement stmt=con.createStatement();  
