@@ -84,7 +84,7 @@ public class add implements ActionListener{
 			      
 			    //create  the connection object 
 			    Connection con=DriverManager.getConnection(  
-			    "jdbc:oracle:thin:@localhost:1522/xe","system","admin123");  
+			    "jdbc:oracle:thin:@localhost:1522/xe","system","password");  
 			      
 			    //execute query  
 			    PreparedStatement pst=(PreparedStatement) con.prepareStatement("insert into todolist values(?,?,?,?)");
