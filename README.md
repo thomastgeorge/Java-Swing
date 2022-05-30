@@ -5,4 +5,4 @@ The project is implemented using Swing GUI widget toolkit and MYSQL database. Th
 <br />
 # Requirements
 <br />
-"." Java version 8 or higher.
+     Java version 8 or higher.
