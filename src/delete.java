@@ -50,7 +50,7 @@ public class delete implements ActionListener{
 	      
 			//create  the connection object 
 			Connection con=DriverManager.getConnection(  
-			"jdbc:oracle:thin:@localhost:1522/xe","system","admin123");  
+			"jdbc:oracle:thin:@localhost:1522/xe","system","password");  
 	      
 			//create the statement object  
 
