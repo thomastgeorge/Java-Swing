@@ -85,7 +85,7 @@ public class update implements ActionListener{
 			      
 			    //create  the connection object 
 			    Connection con=DriverManager.getConnection(  
-			    "jdbc:oracle:thin:@localhost:1522/xe","system","admin123");  
+			    "jdbc:oracle:thin:@localhost:1522/xe","system","password");  
 			      
 			    //execute query  
 			    if (t1.getText() !=null && t2.getText() != null && t3.getText()!= null && t4.getText() !=null) {
