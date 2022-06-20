@@ -4,5 +4,5 @@ The project is implemented using Swing GUI widget toolkit and ORACLE database. T
 
 <br /><br /> 
 # Requirements<br /> 
-Java version 8 or higher. 
+Java version 8 or higher. <br /> 
 SQL
