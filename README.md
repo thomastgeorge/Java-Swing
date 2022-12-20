@@ -2,7 +2,7 @@
 # Implementation<br />
 The project is implemented using Swing GUI widget toolkit and ORACLE database. There are totally 6 classes including main class frames.
 
-<br /><br /> 
+<br /><br /> <br /> 
 # Requirements<br /> 
 Java version 8 or higher. <br /> 
 SQL (Oracle Database).
